@@ -1,0 +1,7 @@
+git config --global user.name "xyz"
+git config --global user.email "xyz@gmail.com"
+git init
+git add -A
+git commit -m "xyz name must be written here"
+git remote add origi your repository link
+git push -u origin master
